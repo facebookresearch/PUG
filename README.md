@@ -4,7 +4,7 @@
 
 <font size=9><div align='center' > <a href=https://pug.metademolab.com>**Website**</a> | <a href=https://arxiv.org/abs/2308.03977>**Research Paper**</a> | <a href=https://pug.metademolab.com/faq.html>**Datasheet**</a> </div></font>
 
-https://github.com/facebookresearch/PUG/assets/5903040/463201e6-a831-44de-ad25-151663ec3761
+https://github.com/facebookresearch/PUG/assets/5903040/5fd73746-a45b-4056-ae99-3726dadb51a8
 
 This codebase contains:
 - download links for the PUG-datasets
