@@ -1,0 +1,68 @@
+Animals assets:
+https://www.unrealengine.com/marketplace/en-US/product/complete-animals
+
+Environment assets:
+Egypt: https://www.unrealengine.com/marketplace/en-US/product/ancient-fantasy-mega-bundle
+Desert: https://www.unrealengine.com/marketplace/en-US/product/photorealistic-desert-landscape
+AmusementPark: https://www.unrealengine.com/marketplace/en-US/product/amusement-park-environment-kit
+ArcadeClub: https://www.unrealengine.com/marketplace/en-US/product/cyber-arcade-environment-kit
+Arena: https://www.unrealengine.com/marketplace/en-US/product/ancient-fantasy-mega-bundle
+Battleground: https://www.unrealengine.com/marketplace/en-US/product/military-battlefield-kit-and-middle-east-set
+Catacombs: https://www.unrealengine.com/marketplace/en-US/product/underground-ossuary
+Tableland: https://www.unrealengine.com/marketplace/en-US/product/cliff-faces-01
+EuropeanStreet: https://www.unrealengine.com/marketplace/en-US/product/european-alleys
+JunkYard: https://www.unrealengine.com/marketplace/en-US/product/junkyard-environment-kit
+OceanFloor: https://www.unrealengine.com/marketplace/en-US/product/ocean-floor-environment
+Racetrack: https://www.unrealengine.com/marketplace/en-US/product/race-track-construction-kit
+Ruins: https://www.unrealengine.com/marketplace/en-US/product/ancient-ruins-pack
+SciFiCity: https://www.unrealengine.com/marketplace/en-US/product/sci-fi-megabundle-environment-kit
+SciFiGarage: https://www.unrealengine.com/marketplace/en-US/product/sci-fi-megabundle-environment-kit
+SpaceIsland: https://www.unrealengine.com/marketplace/en-US/product/floating-island-environment
+SpaceHangar: https://www.unrealengine.com/marketplace/en-US/product/scifi-level-hangar-and-corridor-kit
+SpatialStation: https://www.unrealengine.com/marketplace/en-US/product/orbital-space-station-kit
+TokyoDay: https://www.unrealengine.com/marketplace/en-US/product/tokyo
+TokyoNight: https://www.unrealengine.com/marketplace/en-US/product/tokyo
+TrainStation: https://www.unrealengine.com/marketplace/en-US/product/victorian-train-station-and-railroad-modular-set
+Bridge : https://www.unrealengine.com/marketplace/en-US/product/automotive-bridge-scene
+Beach: https://www.unrealengine.com/marketplace/en-US/product/automotive-beach-scene}
+BusStationInterior: https://www.unrealengine.com/marketplace/en-US/product/bus-station-01
+BusStationExterior: https://www.unrealengine.com/marketplace/en-US/product/bus-station-01
+Subway: https://www.unrealengine.com/marketplace/en-US/product/bus-station-01
+IndoorStairs: https://www.unrealengine.com/marketplace/en-US/product/bus-station-01
+Bar: https://www.unrealengine.com/marketplace/en-US/product/bus-station-01
+ScreeningCheckpoint: https://www.unrealengine.com/marketplace/en-US/product/bus-station-01
+Circus: https://www.unrealengine.com/marketplace/en-US/product/circus
+Appartment: https://www.unrealengine.com/marketplace/en-US/product/cyberpunk-apartment-block-2-in-1-bundle
+Hallway: https://www.unrealengine.com/marketplace/en-US/product/cyberpunk-apartment-block-2-in-1-bundle
+TrashRoom: https://www.unrealengine.com/marketplace/en-US/product/cyberpunk-apartment-block-2-in-1-bundle
+FuturisticSubway: https://www.unrealengine.com/marketplace/en-US/item/bb936ab8ac8849a592accf9bf3c55390
+Footbridge: https://www.unrealengine.com/marketplace/en-US/item/bb936ab8ac8849a592accf9bf3c55390
+BoxingRing: https://www.unrealengine.com/marketplace/en-US/product/underground-fighting-arena
+Hangar: https://www.unrealengine.com/marketplace/en-US/product/sci-fi-hangar-01
+Mansion: https://www.unrealengine.com/marketplace/en-US/product/vintage-mansion-environment-kit
+ShoppingMall: https://www.unrealengine.com/marketplace/en-US/product/shopping-mall-environment-kit
+ConferenceRoom: https://www.unrealengine.com/marketplace/en-US/product/spaceport-and-space-center-environment-kit
+SpacePort: https://www.unrealengine.com/marketplace/en-US/product/spaceport-and-space-center-environment-kit
+VillageOutskirt: https://www.unrealengine.com/marketplace/en-US/product/stylized-eastern-village
+VillageSquare: https://www.unrealengine.com/marketplace/en-US/product/stylized-eastern-village
+Courtyard: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-temple
+ElvenRuins: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-plain-lands
+Forge: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-fire-lands
+Library: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-castle
+Museum: https://www.unrealengine.com/marketplace/en-US/product/museum-environment-kit
+Gallery: https://www.unrealengine.com/marketplace/en-US/product/nft-gallery-showroom
+ModernGallery: https://www.unrealengine.com/marketplace/en-US/product/nft-gallery-showroom
+Opera: https://www.unrealengine.com/marketplace/en-US/product/opera-house-kit
+AncientAgora: https://www.unrealengine.com/marketplace/en-US/product/paragon-agora-and-monolith-environment
+Restaurant: https://www.unrealengine.com/marketplace/en-US/product/modern-restaurant
+RuralAustralia: https://www.unrealengine.com/marketplace/en-US/product/rural-australia
+AustralianRoad: https://www.unrealengine.com/marketplace/en-US/product/rural-australia
+ShadyRoad: https://www.unrealengine.com/marketplace/en-US/product/rural-australia
+SaltFlats: https://www.unrealengine.com/marketplace/en-US/product/automotive-salt-flats
+Castle: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-castle
+StylizedEgypt: https://www.unrealengine.com/marketplace/en-US/product/stylized-egypt
+Temple: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-temple
+Snow: Made internally using Megascans assets
+Grass: Made internally using Megascans assets
+DryGrass: https://www.unrealengine.com/marketplace/en-US/product/dry-grass-collections
+Forest: Made internally using Megascans assets

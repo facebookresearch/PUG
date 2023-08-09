@@ -1,0 +1,14 @@
+Animals assets:
+https://www.unrealengine.com/marketplace/en-US/product/complete-animals
+
+Environment assets:
+Desert: https://www.unrealengine.com/marketplace/en-US/product/photorealistic-desert-landscape
+Arena: https://www.unrealengine.com/marketplace/en-US/product/ancient-fantasy-mega-bundle
+OceanFloor: https://www.unrealengine.com/marketplace/en-US/product/ocean-floor-environment
+Racetrack: https://www.unrealengine.com/marketplace/en-US/product/race-track-construction-kit
+TokyoDay: https://www.unrealengine.com/marketplace/en-US/product/tokyo
+Circus: https://www.unrealengine.com/marketplace/en-US/product/circus
+BoxingRing: https://www.unrealengine.com/marketplace/en-US/product/underground-fighting-arena
+Museum: https://www.unrealengine.com/marketplace/en-US/product/museum-environment-kit
+AustralianRoad: https://www.unrealengine.com/marketplace/en-US/product/rural-australia
+SaltFlats: https://www.unrealengine.com/marketplace/en-US/product/automotive-salt-flats

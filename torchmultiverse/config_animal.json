@@ -1,0 +1,18 @@
+{ 
+  "World_Name" : ["Egypt", "Desert", "AmusementPark", "ArcadeClub", "Arena", "Battleground", "Catacombs", "Tableland", "EuropeanStreet", 
+                "JunkYard", "OceanFloor", "Racetrack", "Ruins", "SciFiCity",
+                "SciFiGarage", "SpaceIsland", "SpaceHangar", "SpatialStation", "TokyoDay", "TokyoNight", "TrainStation", 
+                "Bridge", "Beach", "BusStationInterior", "BusStationExterior", "Subway", "IndoorStairs", "Bar", "ScreeningCheckpoint", 
+                "Circus",  "Appartment", "Hallway", "TrashRoom", "FuturisticSubway", "Footbridge", "BoxingRing",
+                "Hangar", "Mansion", "ShoppingMall",
+                "ConferenceRoom", "SpacePort", 
+                "VillageOutskirt","VillageSquare","Courtyard", "ElvenRuins", "Forge",
+                "Library", "Museum", "Gallery", "ModernGallery",
+                "Opera", "AncientAgora", "Restaurant",  "RuralAustralia", "AustralianRoad",
+                "ShadyRoad", "SaltFlats", "Castle", "StylizedEgypt",
+                "Temple", "Snow", "Grass", "DryGrass", "Forest"],
+    "Character_Name" : ["Goldfish", "Caribou", "Elephant","Camel","Penguin","Cassowary","Zebra","Turtle","Bear","Beaver","Capybara","Crocodile","Armadillo","Cat","Gecko","Crow","GiantAnteater","GiantTortoise","KomodoDragon","Rhinoceros","Dolphin","EarlessSeal","FruitBat","Goat","Hippopotamus","Horse","Impala","Lion","Orca","Pig","Rabbit","Squirrel","Tapir","Wildbeest","Wolf","Anlylosaurus","BlackRockFish","Parasaurolophus","PoisonDartFrog","Spinosaurus","Triceraptos","Chicken","HarpyEagle","Ostrich","Raven","RedCrownedCrane","Robin","Seagull","Secretarybird","Shoebill","Swan","Toucan","Vulture","Ammonite","Ant","Scorpion","GoldBeetle","Hornet","SnowCrab","Tarantula","WhiteShark","Tuna","Arowana", "Ayu", "Betta", "Koi", "Pirarucu", "Salmon", "Cattle", "Jerboa"],
+    "Character_Scale" : [0.7, 1.0, 1.3],
+    "Camera_Yaw" : [0, 45, 225, 315],
+    "Character_Texture" : ["Default", "Sky", "Grass", "Asphalt"]
+  }
