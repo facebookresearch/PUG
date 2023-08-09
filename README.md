@@ -31,9 +31,21 @@ Please look at each PUG subfolder to get information on how to load the datasets
 
 [PUG AR4T](./PUG_AR4T)
 
-
 ## How to create a PUG environment ?
 The instruction are availables in the [torchmultiverse](./torchmultiverse) folder.
 
 ## LICENSE
 The datasets are distributed under the CC-BY-NC, with the addenda that they should not be used to train Generative AI models, as found in the LICENSE file.
+
+## Citing PUG
+If you use the PUG datasets, please cite:
+```
+@misc{bordes2023pug,
+      title={PUG: Photorealistic and Semantically Controllable Synthetic Data for Representation Learning}, 
+      author={Florian Bordes and Shashank Shekhar and Mark Ibrahim and Diane Bouchacourt and Pascal Vincent and Ari S. Morcos},
+      year={2023},
+      eprint={2308.03977},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
