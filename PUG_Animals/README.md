@@ -15,4 +15,4 @@ An example of dataloader can found in the file [PUG_Animals.ipynb](./PUG_Animals
 
 ### Credits
 
-The list of the assets used to create PUG: ImageNet is available in the file [list_assets_pug_animal.txt](./list_assets_pug_animal.txt).
+The list of the assets used to create PUG: Animal is available in the file [list_assets_pug_animal.txt](./list_assets_pug_animal.txt).
