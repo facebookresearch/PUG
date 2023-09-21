@@ -28,7 +28,7 @@ from functools import reduce
 import struct
 import functools
 import numpy as np
-from configs.type_messages import MessageType, ToClientMessageType
+from type_messages import MessageType, ToClientMessageType
 
 def convertIntMessageToByte(messageInt):
     return int(messageInt).to_bytes(1, byteorder='little', signed=False)

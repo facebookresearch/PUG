@@ -21,7 +21,7 @@ from aiortc.contrib.media import MediaPlayer, MediaRecorder, MediaBlackhole
 from functools import reduce
 from dataclasses import dataclass
 import argparse
-from client_animal import WebSocketClient
+from client import WebSocketClient
 from json_parser import process_json
 
 if __name__ == '__main__':
@@ -38,7 +38,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # Paths to the config to use to samples the data
-    liste_configs = ["configs/config_animal_imagenet_clean.json"] 
+    liste_configs = ["config_animal.json"] 
     offset = 0
     start_index = 0
     list_messages = []
