@@ -13,6 +13,10 @@ It includes:
 
 An example of dataloader can found in the file [PUG_Animals.ipynb](./PUG_Animals.ipynb).
 
+### Warning
+Around 192 images for the goldfish classes were badly rendered, this should not have any statistical incidence since it concerns less than 0.1% of the total dataset size.
+If the presence of those images is a concern, you can simply remove the goldfish class from the csv file.
+
 ### Credits
 
 The list of the assets used to create PUG: Animal is available in the file [list_assets_pug_animal.txt](./list_assets_pug_animal.txt).
